@@ -1,0 +1,1 @@
+转发器Serial和双层板-带eeprom的kernel不同，转发器Serial配置选项使用的是Serial。
